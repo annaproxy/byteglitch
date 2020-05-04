@@ -1,2 +1,2 @@
 # byteglitch
-Glitch jpegs
+Glitch jpegs, bmps, gifs
